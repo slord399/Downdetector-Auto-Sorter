@@ -25,6 +25,8 @@ Instead of scrolling endlessly to find out what's currently broken, this script 
 | :--- | :--- | :---: |
 | **United States** | `downdetector.com` | ✅ Supported |
 | **United Kingdom** | `downdetector.co.uk` | ✅ Supported |
+| **Canada** | `downdetector.ca` | ✅ Supported |
+| **Japan** | `downdetector.jp` | ✅ Supported |
 | **Global / Other** | `downdetector.*` | 🟡 TBC |
 
 
