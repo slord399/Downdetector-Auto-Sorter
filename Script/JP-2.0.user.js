@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Downdetector JP - Sort Services by Graph Color Status
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/slord399/Downdetector-Auto-Sorter/
 // @version      2.0
 // @description  Sort services on Downdetector based on graph color priority (Red > Yellow > Blue)
 // @author       Tony_Lewis
