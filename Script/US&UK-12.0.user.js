@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Downdetector - US&UK
+// @name         Downdetector US&UK - Sort Services by Graph Color Status
 // @namespace    http://tampermonkey.net/
 // @version      12.0
 // @description  Sorts Downdetector items (Red -> Yellow -> Green) using multi-attribute detection & CSS flex order.
@@ -9,6 +9,7 @@
 // @match        https://*.downdetector.co.uk/*
 // @match        https://downdetector.*/*
 // @grant        none
+// @author       Tony_Lewis
 // ==/UserScript==
 
 (function () {
