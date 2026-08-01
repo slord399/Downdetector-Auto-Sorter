@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Downdetector CA - Sort Services by Graph Color
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/slord399/Downdetector-Auto-Sorter/
 // @version      1.1
 // @description  Sort Downdetector service cards by graph status color (Red > Yellow > Blue) continuously
 // @author       Tony_Lewis
