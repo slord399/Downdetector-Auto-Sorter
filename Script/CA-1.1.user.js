@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Sort Downdetector service cards by graph status color (Red > Yellow > Blue) continuously
-// @author       Assistant
+// @author       Tony_Lewis
 // @match        https://downdetector.ca/*
 // @match        https://*.downdetector.ca/*
 // @grant        none
