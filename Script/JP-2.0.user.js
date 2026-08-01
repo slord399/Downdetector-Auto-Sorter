@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Sort services on Downdetector based on graph color priority (Red > Yellow > Blue)
-// @author       You
+// @author       Tony_Lewis
 // @match        https://downdetector.jp/*
 // @grant        none
 // ==/UserScript==
