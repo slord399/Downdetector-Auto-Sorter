@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Downdetector US&UK - Sort Services by Graph Color Status
+// @name         Downdetector US&UK - Sort Services by Graph Color
 // @namespace    https://github.com/slord399/Downdetector-Auto-Sorter/
 // @version      12.0
 // @description  Sorts Downdetector items (Red -> Yellow -> Green) using multi-attribute detection & CSS flex order.
